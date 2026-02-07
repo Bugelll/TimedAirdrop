@@ -1,17 +1,21 @@
-﻿# README
-Delete this file after you have read it.
+# TimedAirdrop
 
-## Table of contents
-- [Building the Project](#building-the-project)
-- [Testing the Plugin](#testing-the-plugin)
+Unturned Rocket 插件，允许 VIP 玩家召唤空投。
 
-## Building the Project
-1. Use `Ctrl + Shift + B` to build the project or `Build` -> `Build Solution`.
-2. Copy `TimedAirdrop.dll` from `bin/Debug/net48` to the `Rocket/Plugins` folder in your server directory.
+## 功能
 
-## Testing the Plugin
-To test the plugin, start the server and check the console for the plugin loading message.
-```
-[loading] TimedAirdrop
-[05/16/2024 06:30:26] [Info] TimedAirdrop >> TimedAirdrop 1.0.0 has been loaded!
-```
+- `/airdrop` 命令召唤空投到地图随机位置
+- VIP 玩家冷却时间 12 小时，SVIP 玩家 4 小时
+- 冷却时间持久化，服务器重启后保留
+
+## 权限
+
+| 权限 | 说明 |
+|------|------|
+| `timedairdrop.vip` | VIP，12小时冷却 |
+| `timedairdrop.svip` | SVIP，4小时冷却 |
+
+## 安装
+
+1. 编译项目：`dotnet build`
+2. 复制 `bin/Debug/net48/TimedAirdrop.dll` 到服务器 `Rocket/Plugins` 目录
