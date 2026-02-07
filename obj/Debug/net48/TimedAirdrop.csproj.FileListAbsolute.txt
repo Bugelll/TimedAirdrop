@@ -1,0 +1,9 @@
+C:\Users\Administrator\Desktop\TimedAirdrop\obj\Debug\net48\TimedAirdrop.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\TimedAirdrop\obj\Debug\net48\TimedAirdrop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\TimedAirdrop\obj\Debug\net48\TimedAirdrop.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\TimedAirdrop\obj\Debug\net48\TimedAirdrop.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\TimedAirdrop\obj\Debug\net48\TimedAirdrop.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\TimedAirdrop\bin\Debug\net48\TimedAirdrop.dll
+C:\Users\Administrator\Desktop\TimedAirdrop\bin\Debug\net48\TimedAirdrop.pdb
+C:\Users\Administrator\Desktop\TimedAirdrop\obj\Debug\net48\TimedAirdrop.dll
+C:\Users\Administrator\Desktop\TimedAirdrop\obj\Debug\net48\TimedAirdrop.pdb
