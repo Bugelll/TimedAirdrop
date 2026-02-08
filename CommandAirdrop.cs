@@ -12,11 +12,11 @@ namespace Emqo.TimedAirdrop
     public class CommandAirdrop : IRocketCommand
     {
         public AllowedCaller AllowedCaller => AllowedCaller.Player;
-        public string Name => "airdrop";
+        public string Name => "callair";
         public string Help => "召唤空投到地图随机位置";
         public string Syntax => "";
         public List<string> Aliases => new List<string>();
-        public List<string> Permissions => new List<string> { "timedairdrop.vip", "timedairdrop.svip" };
+        public List<string> Permissions => new List<string>();
 
         public static Dictionary<CSteamID, DateTime> Cooldowns = new Dictionary<CSteamID, DateTime>();
 

@@ -7,3 +7,4 @@ C:\Users\Administrator\Desktop\TimedAirdrop\obj\Release\net48\TimedAirdrop.Assem
 C:\Users\Administrator\Desktop\TimedAirdrop\obj\Release\net48\TimedAirdrop.csproj.CoreCompileInputs.cache
 C:\Users\Administrator\Desktop\TimedAirdrop\obj\Release\net48\TimedAirdrop.dll
 C:\Users\Administrator\Desktop\TimedAirdrop\obj\Release\net48\TimedAirdrop.pdb
+C:\Users\Administrator\Desktop\TimedAirdrop\obj\Release\net48\TimedAirdrop.sourcelink.json

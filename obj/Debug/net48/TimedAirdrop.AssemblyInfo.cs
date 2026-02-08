@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TimedAirdrop")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+99c2404c33026b9e25458c961968e9837d242cbd")]
 [assembly: System.Reflection.AssemblyProductAttribute("TimedAirdrop")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TimedAirdrop")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
